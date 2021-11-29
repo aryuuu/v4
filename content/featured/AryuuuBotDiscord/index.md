@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Aryuuu Bot Discord'
 cover: './disbot.png'
 github: 'https://github.com/snow-house/disbot'

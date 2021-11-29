@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Aryuuu Bot Telegram'
 cover: './telebot.png'
 github: 'https://github.com/snow-house/telebot'
