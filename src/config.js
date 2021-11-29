@@ -1,22 +1,22 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'malgahfattahillahi@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/aryuuu',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/fattfattfattt',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/fattfatt10',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/m-algah-fattah-illahi/',
     },
     {
       name: 'Codepen',
@@ -40,6 +40,10 @@ module.exports = {
     {
       name: 'Contact',
       url: '/#contact',
+    },
+    {
+      name: 'Posts',
+      url: '/pensieve',
     },
   ],
 
