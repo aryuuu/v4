@@ -5,7 +5,7 @@ module.exports = {
     title: 'M Algah Fattah Illahi',
     description: 'M Algah Fattah Illahi is a software engineer',
     siteUrl: 'https://aryuuu.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '/ogfatt.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@fattfatt10',
   },
   plugins: [
